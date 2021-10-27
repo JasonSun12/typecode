@@ -2,7 +2,7 @@
 	"posts": {
 		"RequestID": "",
 		"UnstructuredResponse": "***",
-		"Version": "1.0",
+		"version": "1.0",
 		"SessionID": "",
 		"Success": "1",
 		"TransactionID": "***"
