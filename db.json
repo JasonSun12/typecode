@@ -1,63 +1,61 @@
-"QueryAncillaryServiceFareBasicDataRS":{
-    "RequestID":"",
-    "UnstructuredResponse":"***",
-    "Response":{
-      "Data":{
-        "PassengerTypes":[
-          {
-            "PassengerTypeDescription":"儿童",
-            "PassengerTypeCode":"CNN"
-          },
-          {
-            "PassengerTypeDescription":"无人陪伴儿童",
-            "PassengerTypeCode":"UNN"
-          },
-          {
-            "PassengerTypeDescription":"成人",
-            "PassengerTypeCode":"ADT"
-          },
-          {
-            "PassengerTypeDescription":"婴儿",
-            "PassengerTypeCode":"INF"
-          }
-        ],
-        "FrequentFlyerPassengers":[
-          {
-            "FrequentFlyerDescription":"非会员",
-            "FrequentFlyerStatus":"9",
-            "FrequentFlyerStatusID":"5",
-            "AirlineID":"CA"
-          },
-          {
-            "FrequentFlyerDescription":"普卡",
-            "FrequentFlyerStatus":"8",
-            "FrequentFlyerStatusID":"4",
-            "AirlineID":"CA"
-          },
-          {
-            "FrequentFlyerDescription":"银卡",
-            "FrequentFlyerStatus":"7",
-            "FrequentFlyerStatusID":"3",
-            "AirlineID":"CA"
-          },
-          {
-            "FrequentFlyerDescription":"金卡",
-            "FrequentFlyerStatus":"5",
-            "FrequentFlyerStatusID":"2",
-            "AirlineID":"CA"
-          },
-          {
-            "FrequentFlyerDescription":"白金卡",
-            "FrequentFlyerStatus":"3",
-            "FrequentFlyerStatusID":"1",
-            "AirlineID":"CA"
-          }
-        ]
-      }
-    },
-    "Version":"1.0",
-    "SessionID":"",
-    "Success":"1",
-    "TransactionID":"***"
-  }
+{
+	"RequestID": "",
+	"UnstructuredResponse": "***",
+	"Response": {
+		"Data": {
+			"PassengerTypes": [{
+					"PassengerTypeDescription": "儿童",
+					"PassengerTypeCode": "CNN"
+				},
+				{
+					"PassengerTypeDescription": "无人陪伴儿童",
+					"PassengerTypeCode": "UNN"
+				},
+				{
+					"PassengerTypeDescription": "成人",
+					"PassengerTypeCode": "ADT"
+				},
+				{
+					"PassengerTypeDescription": "婴儿",
+					"PassengerTypeCode": "INF"
+				}
+			],
+			"FrequentFlyerPassengers": [{
+					"FrequentFlyerDescription": "非会员",
+					"FrequentFlyerStatus": "9",
+					"FrequentFlyerStatusID": "5",
+					"AirlineID": "CA"
+				},
+				{
+					"FrequentFlyerDescription": "普卡",
+					"FrequentFlyerStatus": "8",
+					"FrequentFlyerStatusID": "4",
+					"AirlineID": "CA"
+				},
+				{
+					"FrequentFlyerDescription": "银卡",
+					"FrequentFlyerStatus": "7",
+					"FrequentFlyerStatusID": "3",
+					"AirlineID": "CA"
+				},
+				{
+					"FrequentFlyerDescription": "金卡",
+					"FrequentFlyerStatus": "5",
+					"FrequentFlyerStatusID": "2",
+					"AirlineID": "CA"
+				},
+				{
+					"FrequentFlyerDescription": "白金卡",
+					"FrequentFlyerStatus": "3",
+					"FrequentFlyerStatusID": "1",
+					"AirlineID": "CA"
+				}
+			]
+		}
+	},
+	"Version": "1.0",
+	"SessionID": "",
+	"Success": "1",
+	"TransactionID": "***"
+}
 }
