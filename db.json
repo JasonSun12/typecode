@@ -1,5 +1,5 @@
 {
-	"posts": [{
+	"posts": {
 		"RequestID": "",
 		"UnstructuredResponse": "***",
 		"Response": {
@@ -58,7 +58,7 @@
 		"SessionID": "",
 		"Success": "1",
 		"TransactionID": "***"
-	}],
+	},
 	"profile": {
 		"name": "typicode"
 	}
