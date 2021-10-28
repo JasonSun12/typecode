@@ -1,12 +1,12 @@
 {
-	"posts": {
+	"posts": [{
 		"RequestID": "",
 		"UnstructuredResponse": "***",
 		"version": "1.0",
 		"SessionID": "",
 		"Success": "1",
 		"TransactionID": "***"
-	},
+	}],
 	"profile": {
 		"name": "typicode"
 	}
